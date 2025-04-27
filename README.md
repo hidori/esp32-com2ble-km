@@ -1,4 +1,4 @@
-# ESP32: COM2BLE/KM
+# Arduino ESP32: COM2BLE/KM
 
 The bridge device that receives keyboard codes and mouse events over a serial (COM) port and emits them as a BLE HID device.
 
